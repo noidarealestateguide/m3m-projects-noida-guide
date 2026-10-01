@@ -26,5 +26,12 @@ The exact connectivity and surrounding infrastructure should be checked for each
 
 Before making a property decision, prospective buyers should independently verify the latest project information, configuration, pricing, applicable charges, approvals, RERA details where applicable, possession status and other relevant documentation.
 
-For a broader overview of the
+For a broader overview of the projects, locations and property options, see:
+
+**[M3M Projects in Noida](https://m3mprojectsnoida.org/m3m-projects-in-noida/)**
+
+## Disclaimer
+
+This repository is provided for general property research and informational purposes. Project details, availability, pricing and development status can change over time. Buyers should verify current information from appropriate official or authoritative sources before making a property decision.
+
 
